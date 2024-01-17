@@ -1,1 +1,2 @@
 # Full-Stack-Banking
+ MERN stack banking web app ensures seamless financial management, leveraging MongoDB, Express.js, React, and Node.js. Users benefit from secure authentication, easy account management, and versatile transactions on an interactive dashboard. The app's responsive design delivers a smooth experience across devices. Powered by React.js, Node.js, and Express.js, with MongoDB as the database, it guarantees a secure and efficient platform for all financial activities, authenticated through JSON Web Tokens (JWT).
